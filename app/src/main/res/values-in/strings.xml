@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kamus</string>
+    <string name="navigation_drawer_open">Buka panel samping navigasi</string>
+    <string name="navigation_drawer_close">Tutup panel navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="english_indonesia">English-Indonesia</string>
+    <string name="indonesia_english">Indonesia-English</string>
+    <string name="search">Cari Terjemahan Kata</string>
+    <string name="translate">Terjemahan</string>
+    <string name="first_load">Harap menunggu \nSistem akan meload data</string>
+    <string name="image_load">image_load</string>
+    <string name="app_first_run">Pertama kali dijalankan</string>
+    <string name="language">Bahasa</string>
+    <string name="exit">Apa anda yakin Ingin Keluar?</string>
+</resources>
